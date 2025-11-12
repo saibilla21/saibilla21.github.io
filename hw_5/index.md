@@ -5,8 +5,6 @@ title: HW5 - Altair Visualizations
 
 ## HW5: Illinois Licenses Visualizations - FALL 2022
 
-Here are the two plots I made for the Fall 2022 Illinois Licenses dataset.
-
 ### Plot 1: Top 15 Most Common License Types
 
 
