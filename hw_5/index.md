@@ -47,8 +47,7 @@ Here are the two plots I made for the Fall 2022 Illinois Licenses dataset.
 
 * **The Data:** [Link to the `licenses_fall2022.csv` file](https://github.com/UIUC-iSchool-DataViz/is445_data/raw/main/licenses_fall2022.csv)
 
-* **The Analysis:** [Link to my Notebook](https://github.com/saibilla21/saibilla21.github.io/hw5/homework5.ipynb)
-
+* **The Analysis:** [Link to my Notebook](https://github.com/saibilla21/saibilla21.github.io/blob/main/hw_5/homework5.ipynb)
 ## Acknowledgements
 
 I'd like to acknowledge that I used Gemini to help resolve Python syntax errors and debug Altair-related issues (like the `MaxRowsError`), and also for GitHub-related queries.
